@@ -1,3 +1,4 @@
+* [OpenMagic](https://github.com/Kalmuraee/OpenMagic): Open-source AI coding toolbar for any web app—select a UI element in the browser, describe a change, review the source diff, and apply verified edits locally. `[assistant co-pilots]` `[github]`
 * [GitHub Copilot](https://github.com/features/copilot): assistente de código desenvolvido pelo GitHub baseado em modelos da OpenAI `[assistant co-pilots]` `[page]`
 * [Cursor](https://www.cursor.so/): Chat and edit in an editor built for pair-programming with AI `[assistant co-pilots]` `[page]`
 * [Metabob](https://metabob.com/): Generative AI for refactoring and debugging code `[assistant co-pilots]` `[page]`
