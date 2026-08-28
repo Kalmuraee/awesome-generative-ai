@@ -497,6 +497,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [v0 by Vercel](https://v0.dev/chat): assistant to build NextJS frontend
 * [Cursor](https://www.cursor.com/): The AI Code Editor, "the best way to code with AI"
 * [Replit](https://replit.com/): "Simply describe your idea above and let the Agent build it for you"
+* [OpenMagic](https://github.com/Kalmuraee/OpenMagic): open-source AI coding toolbar that overlays a running web app; click an element, describe a change, review the diff, and apply verified source edits with hot reload using cloud or local models
 
 ## AI-Powered Code Generation
 
